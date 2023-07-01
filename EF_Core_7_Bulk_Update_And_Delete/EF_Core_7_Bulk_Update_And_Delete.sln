@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF_Core_7_Bulk_Update_And_Delete", "EF_Core_7_Bulk_Update_And_Delete.csproj", "{2BCE1BAA-ACED-4FC7-AC18-1DCB30E6D79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCE1BAA-ACED-4FC7-AC18-1DCB30E6D79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCE1BAA-ACED-4FC7-AC18-1DCB30E6D79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCE1BAA-ACED-4FC7-AC18-1DCB30E6D79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCE1BAA-ACED-4FC7-AC18-1DCB30E6D79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21CE7343-1F9E-42B6-92B4-AF2B1C3CC182}
+	EndGlobalSection
+EndGlobal
